@@ -1,1 +1,3 @@
-# Projekt_DP
+Maciej Wrona
+Bartosz Szaniecki
+Jakub Cieślak
